@@ -1,1 +1,1 @@
-# helloworld-x10
+# "Hello, World!" written in X10 language
